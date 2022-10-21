@@ -1,2 +1,2 @@
 ### Aim of the experiment
-To Verify Norton Theorem. exp15
+To Verify Norton Theorem.
