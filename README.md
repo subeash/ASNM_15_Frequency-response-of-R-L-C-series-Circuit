@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Norton Theorem and Experiment 1**
+<b> Experiment|     <b> **Frequency response of R-L-C series Circuit**
 
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
